@@ -14,3 +14,7 @@ node_modules
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Package manager
+package.json
+yarn.lock
